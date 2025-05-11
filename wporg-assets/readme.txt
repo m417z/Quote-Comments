@@ -1,9 +1,9 @@
 === Quote Comments ===
-Contributors: metodiew, Joen
+Contributors: metodiew
 Donate link: https://metodiew.com/
 Tags: quote, comments, javascript, textile, wysiwyg
-Requires at least: 2.5.0
-Tested up to: 5.8.2
+Requires at least: 5.0.0
+Tested up to: 6.8.1
 Stable tag: 2.2
 Stable tag: trunk
 License: GPLv2 or later
@@ -29,8 +29,7 @@ Note: If it doesn't work for you, go to the Quote Comments options page, and try
 == Screenshots ==
 
 1. The default look: a little (Quote) link next to the comment time.
-2. An alternate look, where the icon has been styled to look like a Quote icon. Click the tiny quote icon to quote. 
-3. Quote Comments options page. 
+2. Quote Comments options page. 
 
 == Frequently Asked Questions ==
 
@@ -76,6 +75,12 @@ a.comment_quote_link {
 }`
 
 == Changelog ==
+
+= 3.0.0 =
+* Release date - May 10, 2025
+* Address the vulnerability report from https://patchstack.com/database/report-preview/d7891563-a582-42b3-95ef-8985948d7d74?pin=InwTOqOOYguvviZ6
+* Add additional escaping
+* Optimize the code base
 
 = 2.2.1 =
 * Release date - November 20, 2021

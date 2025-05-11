@@ -1,0 +1,74 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Quote Comments\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-05-10 17:02+0300\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: bg_BG\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../quote-comments.php:73 ../quote-comments.php:144
+msgid "Click here or select text to quote comment"
+msgstr "Натисни тук или избери текст за да цитираш коментар"
+
+#: ../quote-comments.php:90 ../quote-comments.php:161
+msgid "Click here to respond to author"
+msgstr "Натисни тук за да отговориш на авторът"
+
+#: ../quote-comments.php:263
+msgid "Quote-link title?"
+msgstr "Quote-link заглавие"
+
+#: ../quote-comments.php:264
+msgid "Title of comment link."
+msgstr "Заглавие на връзка на коментар"
+
+#: ../quote-comments.php:269
+msgid "Show author in quote?"
+msgstr "Покажи автор в цитатът"
+
+#: ../quote-comments.php:270
+msgid "Show authors"
+msgstr "Покажи авторите"
+
+#: ../quote-comments.php:275
+msgid "Show reply link?"
+msgstr "Покажи връзка на отговорът?"
+
+#: ../quote-comments.php:276
+msgid "Show reply link"
+msgstr "Покажи връзка на отговорът"
+
+#: ../quote-comments.php:281
+msgid "Reply-link title?"
+msgstr "Quote-link заглавие?"
+
+#: ../quote-comments.php:287
+msgid "Insert Quote link using which hook?"
+msgstr "Въведи цитат линк използвайки hook"
+
+#: ../quote-comments.php:288
+msgid "Which plugin hook should be used to insert the quote link?"
+msgstr "Какъв плъгин hook трябва да бъде използват за да се въведе линк на цитата?"
+
+#: ../quote-comments.php:338
+msgid "settings saved."
+msgstr "Настройките са запазени."
+
+#: ../quote-comments.php:345
+msgid "Quote Comments: General Options"
+msgstr "Quote Comments: Настройки"
+
+#: ../quote-comments.php:458
+msgid "Save changes"
+msgstr "Запазване"
